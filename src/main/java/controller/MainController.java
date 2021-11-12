@@ -1,3 +1,4 @@
+/*
 
 package controller;
 
@@ -46,6 +47,7 @@ public class MainController {
 
 
 
+*/
 /* //------------------ HTML CATEGORIAS
 
     @RequestMapping("/falenciaPessoal/categorias")
@@ -106,7 +108,5 @@ public class MainController {
     }
 
     //------------------ HTML CATEGORIAS*//*
-
-
-}
 */
+
